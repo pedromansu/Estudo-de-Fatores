@@ -1,4 +1,3 @@
-------Descrição------
+# Descrição
 
-* Estudo elaborado para entender o comportamento/influência 
-* dos ingredientes na altura do bolo de cenoura.
+* Estudo elaborado para entender o comportamento/influência dos ingredientes na altura do bolo de cenoura.
